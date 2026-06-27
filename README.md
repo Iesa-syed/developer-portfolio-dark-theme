@@ -59,7 +59,7 @@ A modern and responsive personal portfolio website built using **HTML5** and **C
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/developer-portfolio-dark-theme.git
+git clone https://github.com/Iesa-syed/developer-portfolio-dark-theme.git
 ```
 
 Open the project
